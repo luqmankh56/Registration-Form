@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(2, 48, 32);
+}
+h1 {
+    color: goldenrod;
+    font-weight: bold;
+}
+
+label[for="f.name"],
+label[for="l.name"],
+label[for="gmail"],
+label[for="password"],
+label[for="c.password"] {
+    color: goldenrod; /* Blue color for the labels */
+    font-weight: bold;
+}
+
+h5{
+    color: goldenrod;
+}
