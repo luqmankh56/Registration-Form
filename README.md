@@ -13,4 +13,4 @@ Text and Form Colors: Customized for better readability and aesthetics.
 HTML: For structuring the registration form.
 CSS: For styling the form and adding background and text colors.
 
-Live:
+Live: https://registrationformpk.netlify.app/
